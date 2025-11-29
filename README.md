@@ -1,10 +1,10 @@
 # Hi, I'm Jeronimo Guerrero Maya 👋
 
-### Fullstack Developer | Java & Angular Enthusiast
+### 🚀 Fullstack Developer | Java & Angular Enthusiast
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
 I am a passionate software engineer dedicated to building robust and scalable web applications. I thrive on solving complex problems and am always eager to explore new technologies. My focus is on creating efficient, high-quality code and delivering exceptional user experiences.
 
@@ -14,16 +14,22 @@ I am a passionate software engineer dedicated to building robust and scalable we
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 ---
 
-### Connect with me
+### 📬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeronimoguerreromaya/)
+<p align="left">
+<a href="https://www.linkedin.com/in/jeronimoguerreromaya/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</p>
